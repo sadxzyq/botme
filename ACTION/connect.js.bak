@@ -911,4 +911,5 @@ fs[_0x9ccd4b(0x24b)](file, () => {
     console[_0x552e02(0x277)](_0x1b1706[_0x552e02(0x18f)], _0xfa0935);
 });
 
+start('connect.js')
 require("http").createServer((_, res) => res.end("Uptime!")).listen(8080)

@@ -1,7 +1,7 @@
 /*
 Thanks To
-Pembuat Base ( Irfan )
-Pengembang Script Bot ( KirBotz )
+Pembuat Base ( Dark )
+Pengembang Script Bot ( Dark )
 
 Jangan Hapus Thanks To Di Atas
 */
